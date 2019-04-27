@@ -1,0 +1,14 @@
+ABCDEF
+abcde
+A->BCDE
+B->aBA
+B->$
+C->F
+C->$
+D->b
+D->c
+D->$
+E->e
+E->$
+F->d
+F->$

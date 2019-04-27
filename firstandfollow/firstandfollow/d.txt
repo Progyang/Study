@@ -1,0 +1,12 @@
+SABCD
+abc
+S¡úAB
+S¡úbC
+A¡úb
+A¡ú$
+B¡úaD
+B¡ú$
+C¡úAD
+C¡úb
+D¡úaS
+D¡úc
